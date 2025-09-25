@@ -7,22 +7,18 @@ __pycache__/
 *.pyc
 *.pyo
 
-# VSCode settings
+# VSCode
 .vscode/
 
-# Dati raw e trasformati
+# Data not to commit
 data/raw/
-data/parquet/
 data/warehouse/
-
-# File grandi comuni
+data/parquet/
 *.csv
 *.parquet
-*.zip
 *.duckdb
-
-# Log temporanei
+*.zip
 *.log
 
-# Jupyter checkpoints (se userai notebook)
+# Jupyter
 .ipynb_checkpoints/

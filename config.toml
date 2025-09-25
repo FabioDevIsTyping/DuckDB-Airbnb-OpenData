@@ -1,0 +1,6 @@
+[duckdb]
+path = "data/warehouse/airbnb.duckdb"
+schema = "airbnb"
+
+[input]
+csv_path = "data/raw/listings.csv"
