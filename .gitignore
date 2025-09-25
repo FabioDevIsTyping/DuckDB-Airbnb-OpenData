@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VSCode settings
+.vscode/
+
+# Dati raw e trasformati
+data/raw/
+data/parquet/
+data/warehouse/
+
+# File grandi comuni
+*.csv
+*.parquet
+*.zip
+*.duckdb
+
+# Log temporanei
+*.log
+
+# Jupyter checkpoints (se userai notebook)
+.ipynb_checkpoints/
