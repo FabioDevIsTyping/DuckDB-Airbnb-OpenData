@@ -3,4 +3,4 @@ path = "data/warehouse/airbnb.duckdb"
 schema = "airbnb"
 
 [input]
-csv_path = "data/raw/listings.csv"
+csv_path = "data/raw/Airbnb_Open_Data.csv"
